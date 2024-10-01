@@ -1,4 +1,4 @@
-const backEndDomain = "http://localhost:8000";
+const backEndDomain = "https://e-commerce-red-back.vercel.app";
 const SummaryApi = {
   singUp: {
     url: `${backEndDomain}/api/singup/`,
